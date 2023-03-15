@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\bin\Debug\net7.0\Konsollapplikasjon.exe
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\bin\Debug\net7.0\Konsollapplikasjon.deps.json
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\bin\Debug\net7.0\Konsollapplikasjon.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\bin\Debug\net7.0\Konsollapplikasjon.dll
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\bin\Debug\net7.0\Konsollapplikasjon.pdb
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.dll
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\refint\Konsollapplikasjon.dll
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.pdb
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\Konsollapplikasjon.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\konsollApplikasjon\Konsollapplikasjon\obj\Debug\net7.0\ref\Konsollapplikasjon.dll
