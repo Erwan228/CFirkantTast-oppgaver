@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erwan\\Documents\\GitHub\\CFirkantTast-oppgaver\\konsollApplikasjon\\Konsollapplikasjon\\Konsollapplikasjon.csproj",
-      "projectName": "Konsollapplikasjon",
-      "projectPath": "C:\\Users\\erwan\\Documents\\GitHub\\CFirkantTast-oppgaver\\konsollApplikasjon\\Konsollapplikasjon\\Konsollapplikasjon.csproj",
+      "projectUniqueName": "C:\\Users\\erwan\\Documents\\GitHub\\CFirkantTast-oppgaver\\Conditions\\ConditionsOppgave\\ConditionsOppgave.csproj",
+      "projectName": "ConditionsOppgave",
+      "projectPath": "C:\\Users\\erwan\\Documents\\GitHub\\CFirkantTast-oppgaver\\Conditions\\ConditionsOppgave\\ConditionsOppgave.csproj",
       "packagesPath": "C:\\Users\\erwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erwan\\Documents\\GitHub\\CFirkantTast-oppgaver\\konsollApplikasjon\\Konsollapplikasjon\\obj\\",
+      "outputPath": "C:\\Users\\erwan\\Documents\\GitHub\\CFirkantTast-oppgaver\\Conditions\\ConditionsOppgave\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
