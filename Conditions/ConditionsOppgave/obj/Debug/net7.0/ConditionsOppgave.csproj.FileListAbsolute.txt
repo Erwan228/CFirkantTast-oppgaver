@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\bin\Debug\net7.0\ConditionsOppgave.exe
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\bin\Debug\net7.0\ConditionsOppgave.deps.json
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\bin\Debug\net7.0\ConditionsOppgave.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\bin\Debug\net7.0\ConditionsOppgave.dll
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\bin\Debug\net7.0\ConditionsOppgave.pdb
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.dll
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\refint\ConditionsOppgave.dll
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.pdb
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ConditionsOppgave.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\CFirkantTast-oppgaver\Conditions\ConditionsOppgave\obj\Debug\net7.0\ref\ConditionsOppgave.dll
